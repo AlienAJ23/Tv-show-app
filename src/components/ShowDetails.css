@@ -1,0 +1,35 @@
+.show-details-container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .show-details-container h1 {
+    color: #333;
+  }
+  
+  .show-details-container h2 {
+    color: #007bff;
+  }
+  
+  .show-details-container p {
+    color: #555;
+  }
+  
+  .show-details-container a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .show-details-container a:hover {
+    background-color: #0056b3;
+  }
+  
